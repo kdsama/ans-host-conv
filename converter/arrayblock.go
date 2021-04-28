@@ -5,7 +5,7 @@ import (
 	"strings"
 	// "fmt"
 	"errors"
-	stringutils "ans-host-conv/utils"
+	stringutils "github.com/kdsama/ans-host-conv/utils"
 )
 
 type ArrayBlock struct {

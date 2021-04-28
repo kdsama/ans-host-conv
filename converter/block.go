@@ -3,7 +3,7 @@ package converter
 import (
 	"errors"
 	"fmt"
-	stringutils "ans-host-conv/utils"
+	stringutils "github.com/kdsama/ans-host-conv/utils"
 	"strings"
 )
 
