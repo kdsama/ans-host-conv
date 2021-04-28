@@ -47,7 +47,7 @@ func main() {
 }
 ```
 
-**Note :- ** If any one of these entities are not available (Host/HostName/User) the whole ssh 	   config block will be skipped.
+** If any one of these entities are not available (Host/HostName/User) the whole ssh config block will be skipped. **
 
 
 
